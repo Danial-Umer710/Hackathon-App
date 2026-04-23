@@ -1,0 +1,38 @@
+[
+  {
+    "Category": "HealthTech",
+    "AvgScore": 91.1
+  },
+  {
+    "Category": "FinTech",
+    "AvgScore": 85.6
+  },
+  {
+    "Category": "EduTech",
+    "AvgScore": 84.7
+  },
+  {
+    "Category": "SmartCity",
+    "AvgScore": 88.7
+  },
+  {
+    "Category": "AI-ML",
+    "AvgScore": 94.9
+  },
+  {
+    "Category": "AgriTech",
+    "AvgScore": 80.35
+  },
+  {
+    "Category": "CyberSec",
+    "AvgScore": 90.25
+  },
+  {
+    "Category": "Energy",
+    "AvgScore": 87.5
+  },
+  {
+    "Category": "Civic",
+    "AvgScore": 88.6
+  }
+]

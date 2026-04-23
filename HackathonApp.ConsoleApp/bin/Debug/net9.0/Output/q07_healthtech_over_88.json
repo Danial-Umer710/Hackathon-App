@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "TeamName": "ByteForge",
+    "ProjectName": "CareLink",
+    "Category": "HealthTech",
+    "EventDate": "2023-11-18T00:00:00",
+    "Score": 92.5,
+    "Members": 5,
+    "Captain": "Anna Kovacs"
+  },
+  {
+    "Id": 10,
+    "TeamName": "ByteForge",
+    "ProjectName": "ClinicQueue",
+    "Category": "HealthTech",
+    "EventDate": "2024-11-10T00:00:00",
+    "Score": 89.8,
+    "Members": 5,
+    "Captain": "Anna Kovacs"
+  },
+  {
+    "Id": 20,
+    "TeamName": "ByteForge",
+    "ProjectName": "TeleMed\u002B",
+    "Category": "HealthTech",
+    "EventDate": "2025-10-12T00:00:00",
+    "Score": 91.0,
+    "Members": 5,
+    "Captain": "Anna Kovacs"
+  }
+]

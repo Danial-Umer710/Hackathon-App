@@ -1,0 +1,102 @@
+📄 Documentation – Hackathon Results Management System
+1. Project Overview
+
+The Hackathon Results Management System is a console-based C# application developed as part of the Óbuda University assignment. The system imports hackathon project results from an XML file, validates and persists them into an SQL database using Entity Framework Core, executes a series of LINQ queries, and exports the results in JSON format.
+The application also demonstrates delegates, events, asynchronous operations, OOP structure, and layered architecture.
+
+2. Solution Structure
+
+The Visual Studio solution contains two projects:
+
+1. HackathonApp (Console Application – Startup Project)
+
+Handles user interaction through a console menu
+Manages I/O paths, configuration loading, and event subscriptions
+Runs all LINQ queries and JSON exports
+Displays import summaries and execution results
+Contains the XML file under Data/ and generates output JSON files under Output/
+
+2. HackathonData (Class Library)
+
+Contains the EF Core DbContext, entity definitions, and Fluent API configuration
+Implements data import services and LINQ query services
+Contains repository-style classes responsible for DB operations
+Includes EF Core migrations under Data/Migrations/
+
+3. Technologies Used
+
+C# 12 / .NET 9.0
+Entity Framework Core (Code-First approach)
+SQL Server / LocalDB
+XML Parsing (LINQ to XML)
+JSON Serialization using System.Text.Json
+Events & Delegates for notifying completion of the XML import
+Async I/O operations
+LINQ (method + query syntax)
+
+4. Data Import Process
+
+The application loads HackathonResults.xml from the Data folder
+Each record is validated according to the assignment rules
+Valid records are mapped into Project entities
+Data is upserted
+Insert new records
+Update existing ones by Id
+Invalid records are skipped and summarized
+After import completes, a custom event is raised providing:
+Inserted count
+Updated count
+Skipped count
+Import duration
+
+5. Events & Delegates
+
+A custom delegate and event are implemented:
+
+public delegate void DataImportedHandler(int inserted, int updated, int skipped, TimeSpan duration);
+The event is fired after a successful import, and the console displays a formatted message with all import statistics.
+
+6. LINQ Queries (15 Total)
+
+The system includes simple, medium, and complex LINQ queries covering filtering, sorting, grouping, average calculations, and category-based ranking.
+Both method syntax and query syntax are used, as required.
+Each query is implemented in a dedicated service method and accessible through the console menu.
+
+7. JSON Export
+
+Results of all 15 queries can be exported
+Each query result is written to a separate JSON file
+Files are stored under HackathonApp/Output/
+Pretty formatting (WriteIndented = true) is enabled
+Directory is auto-created if missing
+
+8. Error Handling
+
+XML parsing errors are caught and logged
+DB exceptions are handled with readable console messages
+Invalid records do not stop execution
+Optional logging is written to logs/ if enabled
+
+9. Configuration
+
+An appsettings.json file stores:
+Database connection string
+Relative paths for XML and JSON files
+Other optional settings
+The console app loads configuration via ConfigurationBuilder
+
+10. Testing & Verification
+
+The following were tested before submission:
+Successful build and run on .NET 9
+Importing XML with mixed valid and invalid records
+Event trigger and correct summary output
+All 15 LINQ queries execute without errors
+JSON files generated correctly and readable
+EF Core migrations apply database schema successfully
+
+11. Notes
+
+The project follows clean architecture principles and separation of concerns
+All classes are organized and documented for clarity
+The solution is structured to be easily extended (e.g., adding more queries or data sources)

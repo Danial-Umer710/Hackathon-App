@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 5,
+    "TeamName": "NeuralNova",
+    "ProjectName": "DocuAI",
+    "Category": "AI-ML",
+    "EventDate": "2024-06-02T00:00:00",
+    "Score": 95.0,
+    "Members": 5,
+    "Captain": "Reka Szabo"
+  },
+  {
+    "Id": 11,
+    "TeamName": "NeuralNova",
+    "ProjectName": "InsightAI",
+    "Category": "AI-ML",
+    "EventDate": "2025-03-07T00:00:00",
+    "Score": 93.6,
+    "Members": 5,
+    "Captain": "Reka Szabo"
+  },
+  {
+    "Id": 19,
+    "TeamName": "NeuralNova",
+    "ProjectName": "VisionAI",
+    "Category": "AI-ML",
+    "EventDate": "2025-10-12T00:00:00",
+    "Score": 96.1,
+    "Members": 5,
+    "Captain": "Reka Szabo"
+  }
+]

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|c:\\users\\sonic\\downloads\\danial_umer_ftbe2v\\hackathonapp\\hackathonapp.data\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|solutionrelative:hackathonapp.data\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|c:\\users\\sonic\\downloads\\danial_umer_ftbe2v\\hackathonapp\\hackathonapp.data\\data\\hackathondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|solutionrelative:hackathonapp.data\\data\\hackathondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A09282-2433-4FF0-B1EC-D5CCEDB2BB82}|HackathonApp.ConsoleApp\\HackathonApp.ConsoleApp.csproj|c:\\users\\sonic\\downloads\\danial_umer_ftbe2v\\hackathonapp\\hackathonapp.consoleapp\\data\\hackathonresults.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F9A09282-2433-4FF0-B1EC-D5CCEDB2BB82}|HackathonApp.ConsoleApp\\HackathonApp.ConsoleApp.csproj|solutionrelative:hackathonapp.consoleapp\\data\\hackathonresults.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A09282-2433-4FF0-B1EC-D5CCEDB2BB82}|HackathonApp.ConsoleApp\\HackathonApp.ConsoleApp.csproj|c:\\users\\sonic\\downloads\\danial_umer_ftbe2v\\hackathonapp\\hackathonapp.consoleapp\\consoletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A09282-2433-4FF0-B1EC-D5CCEDB2BB82}|HackathonApp.ConsoleApp\\HackathonApp.ConsoleApp.csproj|solutionrelative:hackathonapp.consoleapp\\consoletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9A09282-2433-4FF0-B1EC-D5CCEDB2BB82}|HackathonApp.ConsoleApp\\HackathonApp.ConsoleApp.csproj|c:\\users\\sonic\\downloads\\danial_umer_ftbe2v\\hackathonapp\\hackathonapp.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A09282-2433-4FF0-B1EC-D5CCEDB2BB82}|HackathonApp.ConsoleApp\\HackathonApp.ConsoleApp.csproj|solutionrelative:hackathonapp.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|c:\\users\\sonic\\downloads\\danial_umer_ftbe2v\\hackathonapp\\hackathonapp.data\\services\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|solutionrelative:hackathonapp.data\\services\\queryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|c:\\users\\sonic\\downloads\\danial_umer_ftbe2v\\hackathonapp\\hackathonapp.data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3A6ACA-B420-4439-8000-4A62024676D9}|HackathonApp.Data\\HackathonApp.Data.csproj|solutionrelative:hackathonapp.data\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 167,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAM0UAAAAAAAAAAAQwBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-27T13:14:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleTable.cs",
+              "DocumentMoniker": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.ConsoleApp\\ConsoleTable.cs",
+              "RelativeDocumentMoniker": "HackathonApp.ConsoleApp\\ConsoleTable.cs",
+              "ToolTip": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.ConsoleApp\\ConsoleTable.cs",
+              "RelativeToolTip": "HackathonApp.ConsoleApp\\ConsoleTable.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:13:39.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HackathonResults.xml",
+              "DocumentMoniker": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.ConsoleApp\\Data\\HackathonResults.xml",
+              "RelativeDocumentMoniker": "HackathonApp.ConsoleApp\\Data\\HackathonResults.xml",
+              "ToolTip": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.ConsoleApp\\Data\\HackathonResults.xml",
+              "RelativeToolTip": "HackathonApp.ConsoleApp\\Data\\HackathonResults.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-27T13:05:06.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "HackathonApp.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "HackathonApp.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:22:33.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QueryService.cs",
+              "DocumentMoniker": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Services\\QueryService.cs",
+              "RelativeDocumentMoniker": "HackathonApp.Data\\Services\\QueryService.cs",
+              "ToolTip": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Services\\QueryService.cs",
+              "RelativeToolTip": "HackathonApp.Data\\Services\\QueryService.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:18:25.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Services\\ImportService.cs",
+              "RelativeDocumentMoniker": "HackathonApp.Data\\Services\\ImportService.cs",
+              "ToolTip": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Services\\ImportService.cs",
+              "RelativeToolTip": "HackathonApp.Data\\Services\\ImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:14:44.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HackathonDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Data\\HackathonDbContext.cs",
+              "RelativeDocumentMoniker": "HackathonApp.Data\\Data\\HackathonDbContext.cs",
+              "ToolTip": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Data\\HackathonDbContext.cs",
+              "RelativeToolTip": "HackathonApp.Data\\Data\\HackathonDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:14:23.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "HackathonApp.Data\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\SoNiC\\Downloads\\Danial_Umer_FTBE2V\\HackathonApp\\HackathonApp.Data\\Entities\\Project.cs",
+              "RelativeToolTip": "HackathonApp.Data\\Entities\\Project.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T23:13:28.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

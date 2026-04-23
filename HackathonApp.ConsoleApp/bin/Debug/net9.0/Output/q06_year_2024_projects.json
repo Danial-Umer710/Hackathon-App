@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 2,
+    "TeamName": "QuantumQuokkas",
+    "ProjectName": "LedgerLite",
+    "Category": "FinTech",
+    "EventDate": "2024-03-15T00:00:00",
+    "Score": 88.3,
+    "Members": 4,
+    "Captain": "Mark Toth"
+  },
+  {
+    "Id": 3,
+    "TeamName": "DataDruids",
+    "ProjectName": "ClassCraft",
+    "Category": "EduTech",
+    "EventDate": "2024-03-15T00:00:00",
+    "Score": 84.1,
+    "Members": 3,
+    "Captain": "Lili Nagy"
+  },
+  {
+    "Id": 4,
+    "TeamName": "CitySparks",
+    "ProjectName": "ParkWise",
+    "Category": "SmartCity",
+    "EventDate": "2024-06-02T00:00:00",
+    "Score": 90.2,
+    "Members": 6,
+    "Captain": "Peter Horvath"
+  },
+  {
+    "Id": 5,
+    "TeamName": "NeuralNova",
+    "ProjectName": "DocuAI",
+    "Category": "AI-ML",
+    "EventDate": "2024-06-02T00:00:00",
+    "Score": 95.0,
+    "Members": 5,
+    "Captain": "Reka Szabo"
+  },
+  {
+    "Id": 6,
+    "TeamName": "AgriGenius",
+    "ProjectName": "FieldSense",
+    "Category": "AgriTech",
+    "EventDate": "2024-09-21T00:00:00",
+    "Score": 79.5,
+    "Members": 4,
+    "Captain": "Bence Kiss"
+  },
+  {
+    "Id": 7,
+    "TeamName": "SecureSages",
+    "ProjectName": "PhishGuard",
+    "Category": "CyberSec",
+    "EventDate": "2024-09-21T00:00:00",
+    "Score": 91.4,
+    "Members": 5,
+    "Captain": "Eva Varga"
+  },
+  {
+    "Id": 8,
+    "TeamName": "GreenGrid",
+    "ProjectName": "WattWatch",
+    "Category": "Energy",
+    "EventDate": "2024-09-21T00:00:00",
+    "Score": 83.0,
+    "Members": 3,
+    "Captain": "Tamas Farkas"
+  },
+  {
+    "Id": 9,
+    "TeamName": "HelpHub",
+    "ProjectName": "ReliefMap",
+    "Category": "Civic",
+    "EventDate": "2024-11-10T00:00:00",
+    "Score": 86.7,
+    "Members": 6,
+    "Captain": "Judit Molnar"
+  },
+  {
+    "Id": 10,
+    "TeamName": "ByteForge",
+    "ProjectName": "ClinicQueue",
+    "Category": "HealthTech",
+    "EventDate": "2024-11-10T00:00:00",
+    "Score": 89.8,
+    "Members": 5,
+    "Captain": "Anna Kovacs"
+  }
+]

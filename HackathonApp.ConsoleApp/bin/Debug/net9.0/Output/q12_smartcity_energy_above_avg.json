@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 4,
+    "TeamName": "CitySparks",
+    "ProjectName": "ParkWise",
+    "Category": "SmartCity",
+    "EventDate": "2024-06-02T00:00:00",
+    "Score": 90.2,
+    "Members": 6,
+    "Captain": "Peter Horvath"
+  },
+  {
+    "Id": 17,
+    "TeamName": "GreenGrid",
+    "ProjectName": "SolarSync",
+    "Category": "Energy",
+    "EventDate": "2025-09-05T00:00:00",
+    "Score": 92.0,
+    "Members": 4,
+    "Captain": "Tamas Farkas"
+  }
+]

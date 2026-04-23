@@ -1,0 +1,38 @@
+[
+  {
+    "Category": "HealthTech",
+    "Count": 3
+  },
+  {
+    "Category": "FinTech",
+    "Count": 2
+  },
+  {
+    "Category": "EduTech",
+    "Count": 2
+  },
+  {
+    "Category": "SmartCity",
+    "Count": 2
+  },
+  {
+    "Category": "AI-ML",
+    "Count": 3
+  },
+  {
+    "Category": "AgriTech",
+    "Count": 2
+  },
+  {
+    "Category": "CyberSec",
+    "Count": 2
+  },
+  {
+    "Category": "Energy",
+    "Count": 2
+  },
+  {
+    "Category": "Civic",
+    "Count": 2
+  }
+]
